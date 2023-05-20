@@ -1,4 +1,5 @@
 # loop
+<img src="https://shields.io/github/license/davidruitter/loop?style=flat-square" /> <img src="https://shields.io/librariesio/github/davidruitter/loop?style=flat-square" />
 ## What is loop?
 Loop is an app for Decentralized Async Video Messaging.
 

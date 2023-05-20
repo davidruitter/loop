@@ -13,3 +13,25 @@ Also you would need to find a way to record your screen which can be tidious
 
 But the most important part. Getting Feedback this way is hard.</br>
 Your recipients would have to cite the position of the video and you would have to go there again.
+
+## Interested? Let's get started!
+Clone the repository
+```shell
+git clone https://github.com/davidruitter/loop.git
+```
+Change into the directory
+```shell
+cd loop
+```
+Install the dependencies
+```shell
+npm install
+```
+Initialize the database
+```shell
+npx prisma db push
+```
+Run loop! You can visit it in your browser on https://localhost:3000
+```shell
+npm run dev
+```
